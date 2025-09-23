@@ -1,0 +1,56 @@
+leftnav:
+- identifier: 2b7fed0e-24ce-4b2c-a030-f50943e61bd2
+  name: Syllabus and Calendar
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 00287e91-1c5d-408d-a27b-65c2c99a0a94
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: a0af5939-e450-481c-9869-3183e49c4fb6
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: d5965b2b-3693-4494-910b-a8cc2cb3903e
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 40
+- identifier: 90ed45e4-6422-4087-8eb1-369df473fa24
+  name: Mock Exam
+  pageRef: /pages/exams
+  weight: 50
+- identifier: c5861f35-69ab-4fa9-9b3b-71a792b86ec4
+  name: The Challenge of Learning Old English
+  pageRef: /pages/the-challenge-of-learning-old-english
+  parent: 00287e91-1c5d-408d-a27b-65c2c99a0a94
+  weight: 10
+- identifier: ade290ef-bb5f-4fba-9f1c-5896fc361a0e
+  name: Selecting the Assigned Texts
+  pageRef: /pages/selecting-the-assigned-texts
+  parent: 00287e91-1c5d-408d-a27b-65c2c99a0a94
+  weight: 20
+- identifier: dd07392c-e035-4ab5-8ad6-cd73eb98a18e
+  name: Priorities for Student Learning
+  pageRef: /pages/priorities-for-student-learning
+  parent: 00287e91-1c5d-408d-a27b-65c2c99a0a94
+  weight: 30
+- identifier: 93f44141-a5d4-4369-a11e-6fd512c0ce99
+  name: The Mental Health Day
+  pageRef: /pages/the-mental-health-day
+  parent: 00287e91-1c5d-408d-a27b-65c2c99a0a94
+  weight: 40
+- identifier: f65cab6a-23fd-4f8d-96fa-59ec4dae2979
+  name: How the Course Has Evolved
+  pageRef: /pages/how-the-course-has-evolved
+  parent: 00287e91-1c5d-408d-a27b-65c2c99a0a94
+  weight: 50
+- identifier: 5b222837-c66c-40a5-900b-4b42ce969820
+  name: Plans for Future Iterations of the Course
+  pageRef: /pages/plans-for-future-iterations-of-the-course
+  parent: 00287e91-1c5d-408d-a27b-65c2c99a0a94
+  weight: 60
+- identifier: 1b229c0f-bd5c-41ea-998e-9d45e1c1d754
+  name: Spring 2014 Insights
+  pageRef: /pages/spring-2014-insights
+  parent: 00287e91-1c5d-408d-a27b-65c2c99a0a94
+  weight: 70

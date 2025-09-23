@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Periodic Literature"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "8c521847-16f5-21bc-8408-5eac239a4f7d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "33b7f434-01a4-4485-971d-876e04b64a84",
+    "website": "old-english-and-beowulf"
+  },
+  "course_title": "Old English and Beowulf",
+  "hide_download": false,
+  "course_description": "This course is an intensive introduction to Old English (also called Anglo-Saxon), the ancestor of modern English that was spoken in England *ca.* 600\u20131100. In the first half of the term, students use short prose texts to study the basics of Old English grammar. They go on to read short poems, and conclude by tackling portions of the epic *Beowulf* in the last third of the term. Assessment is based upon translation work, daily vocabulary quizzes, and three exams.",
+  "department_numbers": [
+    "21L",
+    "24"
+  ],
+  "extra_course_numbers": "24.916J",
+  "primary_course_number": "21L.601J",
+  "course_image_thumbnail": {
+    "content": "3d4ceafe-2313-4be3-b8c7-a9f74a60cb5b",
+    "website": "old-english-and-beowulf"
+  },
+  "learning_resource_types": [
+    "Instructor Insights",
+    "Readings",
+    "Lecture Videos",
+    "Exams with Solutions"
+  ],
+  "site_uid": "2e4a4ec1-9139-49a6-a83b-6529a284274e",
+  "site_short_id": "21l.601j-spring-2023",
+  "site_url_path": "courses/21l-601j-old-english-and-beowulf-spring-2023"
+}
