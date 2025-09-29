@@ -25,19 +25,19 @@ After quickly learning the basics of grammar and vocabulary, we will read greate
 
 ### Required
 
-Peter Baker, *Introduction to Old English,* 3<sup>rd</sup> edition. Wiley-Blackwell, 2012. ISBN: 9780470659847. \[Preview with {{% resource_link "782f5c2e-e70e-436d-83e6-8918202867d0" "Google Books" %}}\]
+Peter Baker, *Introduction to Old English,* 3<sup>rd</sup> edition. Wiley-Blackwell, 2012. ISBN: 9780470659847. \[Preview with [Google Books](https://www.google.com/books/edition/Introduction_to_Old_English/plIqudth2IwC?hl=en&gbpv=1)\]
 
-Bruce Mitchell and Fred C. Robinson, A *Guide to Old English,* 8<sup>th</sup> edition. Wiley-Blackwell, 2011. ISBN: ‎9780470671078. \[Preview with {{% resource_link "555cb609-1153-4490-83ae-82c817739c37" "Google Books" %}}\]
+Bruce Mitchell and Fred C. Robinson, A *Guide to Old English,* 8<sup>th</sup> edition. Wiley-Blackwell, 2011. ISBN: ‎9780470671078. \[Preview with [Google Books](https://www.google.com/books/edition/A_Guide_to_Old_English/hwzlYFlKlOoC?hl=en&gbpv=1)\]
 
 Stephen Barney, *Word-Hoard,* 2<sup>nd</sup> edition. Yale, 1985. ISBN: ‎9780300035063. 
 
-*Beowulf,* trans. Seamus Heaney, Norton, 2001. ISBN: ‎9780393320978. \[Preview with {{% resource_link "e28e0f56-ba73-45c4-8aaa-6f5952c547d7" "Google Books" %}}\]
+*Beowulf,* trans. Seamus Heaney, Norton, 2001. ISBN: ‎9780393320978. \[Preview with [Google Books](https://www.google.com/books/edition/Beowulf_a_New_Verse_Translation_Bilingua/m-7crEM3A0AC?hl=en&gbpv=1)\]
 
 ### Optional
 
-Greg Delanty and Michael Matto, eds. *The Word Exchange: Anglo-Saxon Poems in Translation.* Norton, 2011. ISBN: ‎9780393342413. \[Preview with {{% resource_link "1ee87740-59b2-4b54-8b65-849460208143" "Google Books" %}}\]
+Greg Delanty and Michael Matto, eds. *The Word Exchange: Anglo-Saxon Poems in Translation.* Norton, 2011. ISBN: ‎9780393342413. \[Preview with [Google Books](https://www.google.com/books/edition/The_Word_Exchange_Anglo_Saxon_Poems_in_T/qEWVeKy3vtMC?hl=en&gbpv=1)\]
 
-J.R. Clark Hall, A *Concise Anglo-Saxon Dictionary.* Toronto, 1961. ISBN: 9780802065483. \[Preview with {{% resource_link "864f149e-108d-4a13-99c6-ef6d04b823c9" "Google Books" %}}\]
+J.R. Clark Hall, A *Concise Anglo-Saxon Dictionary.* Toronto, 1961. ISBN: 9780802065483. \[Preview with [Google Books](https://www.google.com/books/edition/A_Concise_Anglo_Saxon_Dictionary/eLYiXNHnQWsC?hl=en&gbpv=1)\]
 
 ### Comments about These Books
 
@@ -51,7 +51,7 @@ You may acquire any edition of these textbooks that has the assigned readings, b
 
 I have also assigned two optional texts. *The Word Exchange* is a very cool set of loose, poetic renderings of the entire Old English poetic corpus (save *Beowulf,* of which many translations exist). We will discuss a few of these early in the semester while we're knee-deep in grammar, but those who are interested (or completionists) may be interested in the whole volume. Finally, Clark-Hall is the standard "intermediate" dictionary if you want a hard copy.
 
-Your final resource is not a book but a website, {{% resource_link "115e28a4-c6c0-46b0-9dc7-6e7c197fc568" "Old English Aerobics" %}}, which is a set of online exercises keyed to Baker's IOE. I have not formally assigned anything from here, but I've played around with it and found it useful, especially for drilling verb forms. Poke around at it according to your interest and sense of your own needs in terms of paradigm reinforcement.
+Your final resource is not a book but a website, [Old English Aerobics](http://www.oldenglishaerobics.net/), which is a set of online exercises keyed to Baker's IOE. I have not formally assigned anything from here, but I've played around with it and found it useful, especially for drilling verb forms. Poke around at it according to your interest and sense of your own needs in terms of paradigm reinforcement.
 
 ## Grading Policy
 
@@ -103,7 +103,7 @@ Vocab quiz.
 
 In-class translation: excerpts from the Old English prose translation of Genesis.
 
-\[I strongly urge you to use {{% resource_link "115e28a4-c6c0-46b0-9dc7-6e7c197fc568" "Old English Aerobics" %}} to drill verb forms over the weekend!\]
+\[I strongly urge you to use [Old English Aerobics](http://www.oldenglishaerobics.net/) to drill verb forms over the weekend!\]
 
 ### *Session 6*
 

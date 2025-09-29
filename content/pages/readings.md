@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains the course readings.
 draft: false
+hide_download: true
+hide_download_original: null
 title: Readings
 uid: a0af5939-e450-481c-9869-3183e49c4fb6
 ---
@@ -23,7 +25,7 @@ No readings assigned.
 
 ### Session 2
 
-\[IOE\], pp. 1–40 (Pronunciation, Grammar Review, and the Case System). \[Preview with {{% resource_link "782f5c2e-e70e-436d-83e6-8918202867d0" "Google Books" %}}\]
+\[IOE\], pp. 1–40 (Pronunciation, Grammar Review, and the Case System). \[Preview with [Google Books](https://www.google.com/books/edition/Introduction_to_Old_English/plIqudth2IwC?hl=en&gbpv=1)\]
 
 \[M & R\], pp. 55–60 (Word-Formation). 
 
@@ -33,21 +35,21 @@ No readings assigned.
 
 ### Session 3
 
-\[IOE\], pp. 41–49 (Pronouns). \[Preview with {{% resource_link "782f5c2e-e70e-436d-83e6-8918202867d0" "Google Books" %}}\]
+\[IOE\], pp. 41–49 (Pronouns). \[Preview with [Google Books](https://www.google.com/books/edition/Introduction_to_Old_English/plIqudth2IwC?hl=en&gbpv=1)\]
 
-\[M & R\], pp. 17–19 (Pronouns). \[Preview with {{% resource_link "555cb609-1153-4490-83ae-82c817739c37" "Google Books" %}}\]
+\[M & R\], pp. 17–19 (Pronouns). \[Preview with [Google Books](https://www.google.com/books/edition/A_Guide_to_Old_English/hwzlYFlKlOoC?hl=en&gbpv=1)\]
 
 \[WE\] "The Wanderer," and "Deor." 
 
 \[WH\] Word Groups 7–12.
 
-{{% resource_link "9f29fa57-2e59-4705-b2aa-cc7f79a50d42" "Magic Paradigm Sheet (PDF)" %}}
+[Magic Paradigm Sheet (PDF)](http://www.oldenglishaerobics.net/resources/magic_letter.pdf)
 
 ### Session 4
 
 \[IOE\], pp. 50–63 (Nouns). 
 
-\[M & R\], pp. 20–30 (Pronouns). \[Preview with {{% resource_link "555cb609-1153-4490-83ae-82c817739c37" "Google Books" %}}\]
+\[M & R\], pp. 20–30 (Pronouns). \[Preview with [Google Books](https://www.google.com/books/edition/A_Guide_to_Old_English/hwzlYFlKlOoC?hl=en&gbpv=1)\]
 
 Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old English,* 2<sup>nd</sup> edition. Yale University Press, 1998. ISBN: ‎9780300069952. 
 
@@ -61,7 +63,7 @@ Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old En
 
 \[WH\] Word Groups 23–30.
 
-\[I strongly urge you to use {{% resource_link "115e28a4-c6c0-46b0-9dc7-6e7c197fc568" "Old English Aerobics" %}} to drill verb forms over the weekend!\]
+\[I strongly urge you to use [Old English Aerobics](http://www.oldenglishaerobics.net/) to drill verb forms over the weekend!\]
 
 ### Session 6
 

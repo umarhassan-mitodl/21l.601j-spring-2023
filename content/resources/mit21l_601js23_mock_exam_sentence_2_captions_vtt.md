@@ -5,6 +5,8 @@ draft: false
 file: /courses/21l-601j-old-english-and-beowulf-spring-2023/mit21l_601js23_mock_exam_sentence_2_captions.vtt
 file_size: 7036
 file_type: text/vtt
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
