@@ -29,8 +29,8 @@ None
 
 ### Requirements Satisfied
 
-- 21L.601J can be applied toward a [Bachelor of Science in Literature](http://catalog.mit.edu/schools/humanities-arts-social-sciences/literature/#literature-bs-course-21-l), a [Bachelor of Science in Linguistics](https://linguistics.mit.edu/undergraduate/), or an [interdisciplinary concentration in Ancient and Medieval Studies](https://history.mit.edu/academics/interdisciplinary-program-in-ancient-and-medieval-studies-ams/), but is not required.
-- 21L.601J counts toward MIT's [General Institute Requirement in Humanities and Social Sciences](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement).
+- 21L.601J can be applied toward a {{% resource_link "a1244f9c-1ba1-4930-afaf-b9406020220a" "Bachelor of Science in Literature" %}}, a {{% resource_link "9f3d8861-d1df-4840-95fc-9e40db13c56d" "Bachelor of Science in Linguistics" %}}, or an {{% resource_link "f65931a0-f510-45a4-b868-f49a3bbdf1b2" "interdisciplinary concentration in Ancient and Medieval Studies" %}}, but is not required.
+- 21L.601J counts toward MIT's {{% resource_link "ec794284-8f2d-4a4d-98f8-f9c54051fe70" "General Institute Requirement in Humanities and Social Sciences" %}}.
 
 ### Offered
 
