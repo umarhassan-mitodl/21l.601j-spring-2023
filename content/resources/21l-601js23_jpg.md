@@ -10,7 +10,8 @@ image_metadata:
     the book *Myths and Legends of All Nations; Famous Stories from the Greek, German,
     English, Spanish, Scandinavian, Danish, French, Russian, Bohemian, Italian and
     Other Sources* (1914) by Logan Marshall. (This image is in the public domain.
-    Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beowulf_face_to_face_with_fire-breathing_Dragon.jpg).)'
+    Source: {{% resource_link "7d3103cb-50d9-4bcc-9204-5bd754cbd59e" "Wikimedia Commons"
+    %}}.)'
   credit: ''
   image-alt: 'A man carrying a sword and a shield of armor stands upon a rock, near
     a reptile with smoke coming out of its nose. '
