@@ -5,8 +5,6 @@ draft: false
 file: /courses/21l-601j-old-english-and-beowulf-spring-2023/mit21l_601js23_mock_exam_sentence_2_transcript.pdf
 file_size: 47307
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
